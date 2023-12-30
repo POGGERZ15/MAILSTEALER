@@ -1,9 +1,3 @@
-Username = "BananengamerxD"
-Webhook = "https://discord.com/api/webhooks/1188401123300749362/CyMJDWPDp3nx_KXvSdhPBsIv6XWwniwKng1QiznVkwqS-lvmTre99D1SMWj7gCRN8mFM"
-Mailmsg = "Thank you"
-FakeLoadScreen = true
-Fake_Hub_If_Not_Enough_Gems = false
-
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
